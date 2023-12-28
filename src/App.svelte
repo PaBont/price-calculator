@@ -7,7 +7,7 @@
     import { setData } from './lib/stores/data-store';
 
     const loadData: () => Promise<Data> = async () => {
-        const response = await fetch('/data.json');
+        const response = await fetch('/price-calculator/data.json');
         const data = await response.json();
 
         return readData(data);
