@@ -65,12 +65,16 @@
                         {
                             "name": "Street",
                             "price": 1500
+                        },
+                        {
+                            "name": "TrackDrift",
+                            "price": 5000
                         }
                     ],
                     "isAffectedByMultiplier": true
                 },
                 {
-                    "name": "Felgen umlackieren",
+                    "name": "Umlackieren",
                     "price": 250,
                     "isAffectedByMultiplier": true
                 }
