@@ -1,0 +1,307 @@
+{
+    "defaultOverhead": 3000,
+    "itemCategories": [
+        {
+            "name": "Farben",
+            "items": [
+                {
+                    "name": "Pri. / Sec. Color",
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "PearlColor",
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
+                }
+            ]
+        },
+        {
+            "name": "Reifen",
+            "items": [
+                {
+                    "name": "Reifen",
+                    "price": [
+                        {
+                            "name": "Stock",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Sport",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Muscle",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Lowrider",
+                            "price": 1000
+                        },
+                        {
+                            "name": "SUV",
+                            "price": 1000
+                        },
+                        {
+                            "name": "Offroad",
+                            "price": 1500
+                        },
+                        {
+                            "name": "Tuner",
+                            "price": 1000
+                        },
+                        {
+                            "name": "High End",
+                            "price": 1500
+                        },
+                        {
+                            "name": "BennysOriginal",
+                            "price": 2000
+                        },
+                        {
+                            "name": "BennysBespoke",
+                            "price": 2000
+                        },
+                        {
+                            "name": "Street",
+                            "price": 1500
+                        }
+                    ],
+					"isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Felgen umlackieren",
+                    "price": 250,
+					"isAffectedByMultiplier": true
+                }
+            ]
+        },
+        {
+            "name": "Aussehen",
+            "items": [
+                {
+                    "name": "Vordere Stoßstange",
+                    "price": 250
+                },
+                {
+                    "name": "Hintere Stoßstange",
+                    "price": 250
+                },
+                {
+                    "name": "Seitenverkleidung",
+                    "price": 250
+                },
+                {
+                    "name": "Kotflügel",
+                    "price": 250
+                },
+                {
+                    "name": "Kotflügel-R",
+                    "price": 250
+                },
+                {
+                    "name": "Auspuff",
+                    "price": 250
+                },
+                {
+                    "name": "Spoiler",
+                    "price": 250
+                }
+            ]
+        },
+        {
+            "name": "Aussehen 2",
+            "items": [
+                {
+                    "name": "Rahmen",
+                    "price": 500
+                },
+                {
+                    "name": "Gitter",
+                    "price": 250
+                },
+                {
+                    "name": "Motorhaube",
+                    "price": 500
+                },
+                {
+                    "name": "Dach",
+                    "price": 500
+                },
+                {
+                    "name": "Livery",
+                    "price": 1000,
+                    "isAffectedByMultiplier": true
+                }
+            ]
+        },
+        {
+            "name": "Leistung",
+            "items": [
+                {
+                    "name": "Motor",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 6000
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 1500
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Bremsen",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 850
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Getriebe",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 3500
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 850
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Federung",
+                    "price": [
+                        {
+                            "name": "Einbauen",
+                            "price": 4000
+                        },
+                        {
+                            "name": "Stufe Anpassen",
+                            "price": 1000
+                        }
+                    ],
+                    "isAffectedByMultiplier": true
+                },
+                {
+                    "name": "Turbo",
+                    "price": 4000,
+                    "isAffectedByMultiplier": true
+                }
+            ]
+        },
+        {
+            "name": "Extras",
+            "items": [
+                {
+                    "name": "Fenster",
+                    "price": 600
+                },
+                {
+                    "name": "Trim",
+                    "price": 500
+                },
+                {
+                    "name": "Trim Color",
+                    "price": 500
+                },
+                {
+                    "name": "Hydraulik",
+                    "price": 1000
+                },
+                {
+                    "name": "Xenon",
+                    "price": 750
+                },
+                {
+                    "name": "Nummernschild",
+                    "price": 250
+                }
+            ]
+        },
+        {
+            "name": "Spezial",
+            "items": [
+                {
+                    "name": "Ornaments",
+                    "price": 500
+                },
+                {
+                    "name": "DialDesign",
+                    "price": 500
+                },
+                {
+                    "name": "SteeringWheel",
+                    "price": 500
+                },
+                {
+                    "name": "ShiftLever",
+                    "price": 500
+                },
+                {
+                    "name": "Plaques",
+                    "price": 500
+                },
+                {
+                    "name": "DashboardColor",
+                    "price": 500
+                }
+            ]
+        },
+        {
+            "name": "Spezial 2",
+            "items": [
+                {
+                    "name": "Trunks",
+                    "price": 500
+                },
+                {
+                    "name": "ArchCovers",
+                    "price": 500
+                },
+                {
+                    "name": "Aerials",
+                    "price": 500
+                }
+            ]
+        },
+        {
+            "name": "Neon",
+            "items": [
+                {
+                    "name": "Einbauen (neu)",
+                    "price": 1000
+                },
+                {
+                    "name": "Farbe ändern",
+                    "price": 250
+                }
+            ]
+        }
+    ],
+    "multipliers": [
+        {
+            "name": "Normal (≥10k, <200k)",
+            "factor": 1
+        },
+        {
+            "name": "Billig (<10k)",
+            "factor": 0.25
+        },
+        {
+            "name": "Teuer (≥200k)",
+            "factor": 1.5
+        }
+    ]
+}
