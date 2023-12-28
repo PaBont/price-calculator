@@ -7,7 +7,7 @@ if (appContainer === null) {
     appContainer.id = 'app';
     document.body.append(appContainer);
 }
-
+// test
 const app = new App({
     target: appContainer,
 });
