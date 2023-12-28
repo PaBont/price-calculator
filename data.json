@@ -67,12 +67,12 @@
                             "price": 1500
                         }
                     ],
-					"isAffectedByMultiplier": true
+                    "isAffectedByMultiplier": true
                 },
                 {
                     "name": "Felgen umlackieren",
                     "price": 250,
-					"isAffectedByMultiplier": true
+                    "isAffectedByMultiplier": true
                 }
             ]
         },
